@@ -1,0 +1,1707 @@
+{
+  "home": {
+    "banners": [
+    {
+      "title": "感恩好礼",
+      "link": "http://m.pinxiango.com/product/search?search=Thanksgiving",
+      "image": "http://cdnimg.pinxiango.com/img/banner/background/15113147842709.jpg?x-oss-process=image/resize,m_pad,h_300,w_640,color_FFFFFF"
+    },
+    {
+      "title": "德运牛奶",
+      "link": "http://m.pinxiango.com/product/search?search=deyun",
+      "image": "http://cdnimg.pinxiango.com/img/banner/background/15111575627343.jpg?x-oss-process=image/resize,m_pad,h_300,w_640,color_FFFFFF"
+    },
+    {
+      "title": "新人福利",
+      "link": "http://m.pinxiango.com/Bargains/newuser",
+      "image": "http://cdnimg.pinxiango.com/img/banner/background/15094996609966.jpg?x-oss-process=image/resize,m_pad,h_300,w_640,color_FFFFFF"
+    },
+    {
+      "title": "砀山冰糖梨",
+      "link": "http://m.pinxiango.com/product/product-3192.html",
+      "image": "http://cdnimg.pinxiango.com/img/banner/background/15100219193181.jpg?x-oss-process=image/resize,m_pad,h_300,w_640,color_FFFFFF"
+    },
+    {
+      "title": "秦先生和他的竹林鸡",
+      "link": "http://m.pinxiango.com/mobile/hen/index2",
+      "image": "http://cdnimg.pinxiango.com/img/banner/background/14949246398399.png?x-oss-process=image/resize,m_pad,h_300,w_640,color_FFFFFF"
+    }
+  ],
+    "cart_list": {
+    "error_warning": "",
+    "cart_bag": 0,
+    "cart_bag_key": "",
+    "bag_checked": false,
+    "cart_normall_num": 0,
+    "cart_num": 0,
+    "total": {
+      "total_price": "￥0.00",
+      "discount": 0
+    },
+    "purchase_require": "88.00",
+    "cart_all_checked": true,
+    "shipping_lack": "59.00",
+    "normal_products": [],
+    "unable_ptoducts": [],
+    "overall_gifts": [],
+    "purchase_lst": [
+      {
+        "product_id": "679",
+        "name": "品鲜GO有机稻花香大米",
+        "img": "http://cdnimg.pinxiango.com/img/product/img/0/679/15015660047958.jpg?x-oss-process=image/resize,m_pad,h_150,w_150,color_FFFFFF",
+        "price": "￥18.80",
+        "plus_price": "8.8",
+        "type": "all"
+      },
+      {
+        "product_id": "3132",
+        "name": "每日坚果 6种健康果仁",
+        "img": "http://cdnimg.pinxiango.com/img/product/img/3/3132/15024373211089.jpg?x-oss-process=image/resize,m_pad,h_150,w_150,color_FFFFFF",
+        "price": "￥148.00",
+        "plus_price": "99",
+        "type": "all"
+      },
+      {
+        "product_id": "3250",
+        "name": "粽礼三味",
+        "img": "http://cdnimg.pinxiango.com/img/product/img/3/3250/15108819273699.jpg?x-oss-process=image/resize,m_pad,h_150,w_150,color_FFFFFF",
+        "price": "￥23.40",
+        "plus_price": "15.80",
+        "type": "all"
+      }
+    ],
+    "recipe_lst": []
+  },
+    "cate": {
+    "0": {
+      "category_id": "317",
+      "href": "/mobile/category-317-p.sort_order-ASC-52.html",
+      "category_name": "安心水果",
+      "image": "http://cdnimg.pinxiango.com/img/bg/mobile/cateimg-317.png",
+      "products": [
+        {
+          "id": "2213",
+          "name": "品鲜GO越南红心火龙果(约400g/个) ",
+          "model": "2个",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/2/2213/1473302226.JPG?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "38.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "37",
+          "status": "1",
+          "resume": "有颜值有内涵 清甜怡人透兰香",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-2213.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780464674.png"
+        },
+        {
+          "id": "2215",
+          "name": "品鲜GO墨西哥牛油果（约150g/个）",
+          "model": "2个",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/2/2215/1473301439.JPG?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "29.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "20",
+          "status": "1",
+          "resume": "“森林的牛油” 细腻醇厚",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-2215.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780464674.png"
+        },
+        {
+          "id": "3255",
+          "name": "云南昭通苹果",
+          "model": "4个装",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3255/15113179679413.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "12.00",
+          "sale_price": "1.10",
+          "distribution": "310100",
+          "quantity": "574",
+          "status": "1",
+          "resume": "高原野生果 产地直采 甜脆多汁",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3255.html",
+          "product_label": [
+            {
+              "name": "特价尝鲜",
+              "bg_color": "#ff8000",
+              "begin_time": "0",
+              "end_time": "1514735940"
+            },
+            {
+              "name": "每单限购一份",
+              "bg_color": "#ff8000",
+              "begin_time": "0",
+              "end_time": "1514735940"
+            }
+          ],
+          "badge": ""
+        },
+        {
+          "id": "3254",
+          "name": "云南昭通苹果",
+          "model": "15个装",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3254/15113179578922.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "42.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "182",
+          "status": "1",
+          "resume": "高原野生果 产地直采 甜脆多汁",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3254.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3236",
+          "name": "黄金百香果",
+          "model": "16个装",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3236/15093292712564.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "108.00",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "5",
+          "status": "1",
+          "resume": "果香独特 高甜微酸 唤起甜蜜记忆",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3236.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3234",
+          "name": "黄金百香果",
+          "model": "3斤",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3234/15093273462749.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "88.00",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "986",
+          "status": "1",
+          "resume": "果香独特 高甜微酸 唤起甜蜜记忆",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-3234.html",
+          "product_label": [],
+          "badge": ""
+        }
+      ]
+    },
+    "1": {
+      "category_id": "286",
+      "href": "/mobile/category-286-p.sort_order-ASC-52.html",
+      "category_name": "水产海鲜",
+      "image": "http://cdnimg.pinxiango.com/img/bg/mobile/cateimg-286.png",
+      "products": [
+        {
+          "id": "2453",
+          "name": "品鲜GO精选阳澄湖大闸蟹 （4公4母）",
+          "model": "公4.0-4.5两 母2.8-3.2两",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/2/2453/15064136657143.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "1188.00",
+          "sale_price": "658.00",
+          "distribution": "310100",
+          "quantity": "1000",
+          "status": "1",
+          "resume": "阳澄湖产地直采 蟹肥膏黄",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-2453.html",
+          "product_label": [
+            {
+              "name": "赠有机老母鸡",
+              "bg_color": "#ff8000",
+              "begin_time": "1511314860",
+              "end_time": "1511539140"
+            }
+          ],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "2419",
+          "name": "品鲜GO精选阳澄湖大闸蟹 （4公4母）",
+          "model": "公3.5-3.9两  母2.5-2.7两",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/2/2419/15064136542913.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "916.00",
+          "sale_price": "498.00",
+          "distribution": "310100",
+          "quantity": "975",
+          "status": "1",
+          "resume": "阳澄湖产地直采 蟹肥膏黄",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-2419.html",
+          "product_label": [
+            {
+              "name": "赠有机老母鸡",
+              "bg_color": "#ff8000",
+              "begin_time": "1511314920",
+              "end_time": "1511539140"
+            }
+          ],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "2417",
+          "name": "品鲜GO精选阳澄湖大闸蟹 （4公4母）",
+          "model": "公3.0-3.4两  母2.0-2.4两",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/2/2417/15064136411097.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "666.00",
+          "sale_price": "358.00",
+          "distribution": "310100",
+          "quantity": "961",
+          "status": "1",
+          "resume": "阳澄湖产地直采 蟹肥膏黄",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-2417.html",
+          "product_label": [
+            {
+              "name": "赠有机老母鸡",
+              "bg_color": "#ff8000",
+              "begin_time": "1511314980",
+              "end_time": "1511539140"
+            }
+          ],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "1009",
+          "name": "品鲜GO厄瓜多尔白对虾",
+          "model": "250g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1009/57354c32a382e.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "36.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "224",
+          "status": "1",
+          "resume": "壳薄体肥 细嫩紧实 极致鲜享",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1009.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "1761",
+          "name": "品鲜GO特选 厄瓜多尔白对虾仁",
+          "model": "175g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1761/1472182720.JPG?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "33.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "113",
+          "status": "1",
+          "resume": "鲜嫩肥美 去壳去头 料理简便",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1761.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "3190",
+          "name": "【蟹券】阳澄湖大闸蟹（4公4母）",
+          "model": "公3.0-3.4两 母2.0-2.4两",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3190/15064136019944.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "666.00",
+          "sale_price": "358.00",
+          "distribution": "310100",
+          "quantity": "4",
+          "status": "1",
+          "resume": "阳澄湖产地直采 蟹肥膏黄",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3190.html",
+          "product_label": [
+            {
+              "name": "带防伪标识",
+              "bg_color": "#ff8000",
+              "begin_time": "1505355900",
+              "end_time": "1517365500"
+            }
+          ],
+          "badge": ""
+        }
+      ]
+    },
+    "2": {
+      "category_id": "316",
+      "href": "/mobile/category-316-p.sort_order-ASC-52.html",
+      "category_name": "乳品蛋奶",
+      "image": "http://cdnimg.pinxiango.com/img/bg/mobile/cateimg-316.png",
+      "products": [
+        {
+          "id": "3246",
+          "name": "德运全脂牛奶",
+          "model": "1L*10",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3246/15102134091596.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "110.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "1",
+          "status": "1",
+          "resume": "澳洲原装进口 黄金奶源 香醇口感",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3246.html",
+          "product_label": [
+            {
+              "name": "进口商品",
+              "bg_color": "#ff8000",
+              "begin_time": "0",
+              "end_time": "2147483647"
+            }
+          ],
+          "badge": ""
+        },
+        {
+          "id": "3245",
+          "name": "德运脱脂牛奶",
+          "model": "1L*10",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3245/15102134435569.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "110.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "1",
+          "status": "1",
+          "resume": "澳洲原装进口 美味健康两不误",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3245.html",
+          "product_label": [
+            {
+              "name": "进口商品",
+              "bg_color": "#ff8000",
+              "begin_time": "0",
+              "end_time": "2147483647"
+            }
+          ],
+          "badge": ""
+        },
+        {
+          "id": "3244",
+          "name": "德运全脂牛奶",
+          "model": "1L",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3244/15101982386997.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "13.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "363",
+          "status": "1",
+          "resume": "澳洲原装进口 黄金奶源 香醇口感",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3244.html",
+          "product_label": [
+            {
+              "name": "进口商品",
+              "bg_color": "#ff8000",
+              "begin_time": "0",
+              "end_time": "2147483647"
+            }
+          ],
+          "badge": ""
+        },
+        {
+          "id": "3243",
+          "name": "德运脱脂牛奶",
+          "model": "1L",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3243/15101982624264.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "13.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "254",
+          "status": "1",
+          "resume": "澳洲原装进口 美味健康两不误",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3243.html",
+          "product_label": [
+            {
+              "name": "进口商品",
+              "bg_color": "#ff8000",
+              "begin_time": "0",
+              "end_time": "2147483647"
+            }
+          ],
+          "badge": ""
+        },
+        {
+          "id": "2783",
+          "name": "有机散养 原生态土鸡蛋礼盒",
+          "model": "50枚",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/2/2783/15014697498320.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "138.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "3",
+          "status": "1",
+          "resume": "天然喂养无添加 蛋香满溢富营养",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-2783.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "2721",
+          "name": "品鲜GO有机双拼蛋（土鸡蛋+乌鸡蛋）",
+          "model": "2 盒*10枚",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/2/2721/14943179309744.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "65.60",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "8",
+          "status": "1",
+          "resume": "天然喂养 香嫩可口 营养丰富",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-2721.html",
+          "product_label": [],
+          "badge": ""
+        }
+      ]
+    },
+    "4": {
+      "category_id": "261",
+      "href": "/mobile/category-261-p.sort_order-ASC-52.html",
+      "category_name": "时令鲜蔬",
+      "image": "http://cdnimg.pinxiango.com/img/bg/mobile/cateimg-261.png",
+      "products": [
+        {
+          "id": "3085",
+          "name": "蔬菜 宅配套餐",
+          "model": "2kg*12次",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3085/15015783799422.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "1296.00",
+          "sale_price": "1000.00",
+          "distribution": "310100",
+          "quantity": "10000",
+          "status": "1",
+          "resume": "农庄直供 新鲜直达",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-3085.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3055",
+          "name": "品鲜GO迷你胡萝卜",
+          "model": "100g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3055/14974259753312.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "12.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "75",
+          "status": "1",
+          "resume": "只用干净合格的自然水土和爱培育",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-3055.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3034",
+          "name": "品鲜GO薄荷叶",
+          "model": "50g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3034/14974258134254.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "12.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "95",
+          "status": "1",
+          "resume": "只用干净合格的自然水土和爱培育",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-3034.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3032",
+          "name": "品鲜GO绿叶菠菜",
+          "model": "50g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3032/14974258441285.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "12.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "91",
+          "status": "1",
+          "resume": "只用干净合格的自然水土和爱培育",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-3032.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3026",
+          "name": "品鲜GO芝麻菜",
+          "model": "50g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3026/14974258686333.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "12.80",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "89",
+          "status": "1",
+          "resume": "只用干净合格的自然水土和爱培育",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-3026.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3017",
+          "name": "品鲜GO小松菜(棵)",
+          "model": "100g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3017/14975103123143.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "7.50",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "75",
+          "status": "1",
+          "resume": "只用干净合格的自然水土和爱培育",
+          "stock_status_id": "11",
+          "href": "http://m.pinxiango.com/mobile/product-3017.html",
+          "product_label": [],
+          "badge": ""
+        }
+      ]
+    },
+    "5": {
+      "category_id": "272",
+      "href": "/mobile/category-272-p.sort_order-ASC-52.html",
+      "category_name": "精品肉类",
+      "image": "http://cdnimg.pinxiango.com/img/bg/mobile/cateimg-272.png",
+      "products": [
+        {
+          "id": "659",
+          "name": "品鲜GO特选 有机老公鸡",
+          "model": "1100g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/0/659/1477384276.JPG?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "138.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "14",
+          "status": "1",
+          "resume": "在林中自然放养   纯天然",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-659.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "657",
+          "name": "品鲜GO有机乌骨老母鸡",
+          "model": "800g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/0/657/14881695095302.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "148.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "30",
+          "status": "1",
+          "resume": "散养品质 肉香细腻 “黑了心的宝贝”",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-657.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "656",
+          "name": "品鲜GO有机老母鸡",
+          "model": "900g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/0/656/1478914724.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "138.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "29",
+          "status": "1",
+          "resume": "竹林散养 味鲜肉紧 温补佳品",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-656.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "658",
+          "name": "品鲜GO有机童子鸡（100天以上）",
+          "model": "700g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/0/658/14866320315648.JPG?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "78.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "34",
+          "status": "1",
+          "resume": "补虚亏 健脾胃 强筋骨 活血脉",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-658.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780197646.png"
+        },
+        {
+          "id": "3242",
+          "name": "加拿大进口3A眼肉牛排",
+          "model": "200g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3242/15111603755105.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "78.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "35",
+          "status": "1",
+          "resume": "诱人雪花纹路，肉质柔软多汁",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3242.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3241",
+          "name": "新西兰进口羔羊小排",
+          "model": "500g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3241/15111596407928.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "48.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "68",
+          "status": "1",
+          "resume": "肥瘦相间 肉质鲜嫩 煎烤适宜",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3241.html",
+          "product_label": [],
+          "badge": ""
+        }
+      ]
+    },
+    "7": {
+      "category_id": "276",
+      "href": "/mobile/category-276-p.sort_order-ASC-52.html",
+      "category_name": "粮油副食",
+      "image": "http://cdnimg.pinxiango.com/img/bg/mobile/cateimg-276.png",
+      "products": [
+        {
+          "id": "679",
+          "name": "品鲜GO有机稻花香大米",
+          "model": "500g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/0/679/15015660047958.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "18.80",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "790",
+          "status": "1",
+          "resume": "“五常米 帝王粮”清香软糯 宜饭宜粥",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-679.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780699035.png"
+        },
+        {
+          "id": "577",
+          "name": "品鲜GO特选 老妈味稻有机大黄米",
+          "model": "450g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/0/577/15015691985433.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "18.80",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "3",
+          "status": "1",
+          "resume": "富含人体所需8种氨基酸",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-577.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780699035.png"
+        },
+        {
+          "id": "828",
+          "name": "品鲜GO压榨一级山茶油",
+          "model": "500ml",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/0/828/57357b7104c94.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "98.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "109",
+          "status": "1",
+          "resume": "原料有机 物理压榨 丰富亚麻酸",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-828.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064779926259.png"
+        },
+        {
+          "id": "1195",
+          "name": "品鲜GO特选 干黑木耳（精选单片）",
+          "model": "110g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1195/15014705418551.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "28.80",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "52",
+          "status": "1",
+          "resume": "肉厚味鲜 可荤可素 血管清道夫",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1195.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780842361.png"
+        },
+        {
+          "id": "3250",
+          "name": "粽礼三味",
+          "model": "140g*6",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3250/15108819273699.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "23.40",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "9",
+          "status": "1",
+          "resume": "粽米软糯 馅料上品 色香味的完美融合",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3250.html",
+          "product_label": [
+            {
+              "name": "满88换购",
+              "bg_color": "#ff8000",
+              "begin_time": "0",
+              "end_time": "1512057540"
+            }
+          ],
+          "badge": ""
+        },
+        {
+          "id": "3176",
+          "name": "嘉兴特产 | 文虎酱牛肉",
+          "model": "250g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3176/15065617348836.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "59.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "113",
+          "status": "1",
+          "resume": "三十年的老味道，越品越有味",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3176.html",
+          "product_label": [
+            {
+              "name": "老字号",
+              "bg_color": "#ff8000",
+              "begin_time": "1506478320",
+              "end_time": "1522462320"
+            }
+          ],
+          "badge": ""
+        }
+      ]
+    },
+    "8": {
+      "category_id": "287",
+      "href": "/mobile/category-287-p.sort_order-ASC-52.html",
+      "category_name": "酒水饮品",
+      "image": "http://cdnimg.pinxiango.com/img/bg/mobile/cateimg-287.png",
+      "products": [
+        {
+          "id": "1749",
+          "name": "品鲜GO特选 十年陈老顺泰雕酒 ",
+          "model": "500ml",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1749/15015725042983.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "29.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "232",
+          "status": "1",
+          "resume": "手工原酿 十年典藏 醇厚芳香",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1749.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780842361.png"
+        },
+        {
+          "id": "1421",
+          "name": "品鲜GO特选 黑马红葡萄酒（波尔多AOC）",
+          "model": "750ml",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1421/15015714045041.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "258.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "4",
+          "status": "1",
+          "resume": "口感柔顺 水果与单宁完美平衡",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1421.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780464674.png"
+        },
+        {
+          "id": "1113",
+          "name": "新西兰 PURE弱碱性天然矿泉水",
+          "model": "500ml",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1113/15032809845071.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "12.00",
+          "sale_price": "10.80",
+          "distribution": "999999",
+          "quantity": "11",
+          "status": "1",
+          "resume": "水源纯净无污染 天然弱碱性助平衡",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1113.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780464674.png"
+        },
+        {
+          "id": "1493",
+          "name": "品鲜GO特选 老姜红糖",
+          "model": "350g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1493/15015725286445.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "19.80",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "8",
+          "status": "1",
+          "resume": "蔗香浓郁 甜蜜温补 健脾暖胃",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1493.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064779793568.png"
+        },
+        {
+          "id": "3137",
+          "name": "澳大利亚 Mc WILLIAM白葡萄酒",
+          "model": "750ml",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3137/15023457286273.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "138.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "190",
+          "status": "1",
+          "resume": "百年家族酒庄，经典传承",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3137.html",
+          "product_label": [],
+          "badge": ""
+        },
+        {
+          "id": "3103",
+          "name": "品鲜GO特选 昆仑山天然雪山矿泉水",
+          "model": "510ml*12",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3103/15014631965589.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "52.00",
+          "sale_price": null,
+          "distribution": "310100",
+          "quantity": "34",
+          "status": "1",
+          "resume": "纯净零污染 天然弱碱性",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3103.html",
+          "product_label": [],
+          "badge": ""
+        }
+      ]
+    },
+    "9": {
+      "category_id": "361",
+      "href": "/mobile/category-361-p.sort_order-ASC-52.html",
+      "category_name": "休闲零食",
+      "image": "http://cdnimg.pinxiango.com/img/bg/mobile/cateimg-361.png",
+      "products": [
+        {
+          "id": "1001",
+          "name": "品鲜GO特选 甘栗仁",
+          "model": "100g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1001/15015756313593.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "9.60",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "53",
+          "status": "1",
+          "resume": "降低胆固醇   养胃健脾",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1001.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780842361.png"
+        },
+        {
+          "id": "1743",
+          "name": "品鲜GO特选 腰果",
+          "model": "88g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1743/15015778851790.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "13.80",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "6",
+          "status": "1",
+          "resume": "精选果仁 果香味美 酥脆回甘",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1743.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064779793568.png"
+        },
+        {
+          "id": "1107",
+          "name": "品鲜GO特选 甜杏仁",
+          "model": "300g",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/1/1107/1477460038.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "39.90",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "44",
+          "status": "1",
+          "resume": "用心种植 手工精选 零食必备",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-1107.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064780842361.png"
+        },
+        {
+          "id": "3133",
+          "name": "每日坚果 6种健康果仁",
+          "model": "25g*7包",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3133/15024373087640.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "38.00",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "373",
+          "status": "1",
+          "resume": "合理配比，一天一包，营养更全面",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3133.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064779793568.png"
+        },
+        {
+          "id": "3132",
+          "name": "每日坚果 6种健康果仁",
+          "model": "25g*30包",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/3/3132/15024373211089.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "148.00",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "99",
+          "status": "1",
+          "resume": "合理配比，一天一包，营养更全面",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-3132.html",
+          "product_label": [],
+          "badge": "http://cdnimg.pinxiango.com/img/pcateIcon/15064779793568.png"
+        },
+        {
+          "id": "2835",
+          "name": "散装 | 传统原磨豆浆粉 * 五包",
+          "model": "60小袋",
+          "cate_id": "",
+          "image": "http://cdnimg.pinxiango.com/img/product/img/2/2835/15014640836285.jpg?x-oss-process=image/resize,m_pad,h_280,w_280,color_FFFFFF",
+          "price": "79.50",
+          "sale_price": null,
+          "distribution": "999999",
+          "quantity": "3",
+          "status": "1",
+          "resume": "非转基因原料  每天一块三  营养又健康",
+          "stock_status_id": "7",
+          "href": "http://m.pinxiango.com/mobile/product-2835.html",
+          "product_label": [],
+          "badge": ""
+        }
+      ]
+    }
+  },
+    "discount": {
+    "image": "http://cdnimg.pinxiango.com/img/banner/background/1478857165.png?x-oss-process=image/resize,m_pad,h_320,w_700,color_FFFFFF",
+    "link": "http://m.pinxiango.com/mobile/category-281-p.sort_order-ASC-52.html",
+    "product": [
+      {
+        "id": "1307",
+        "name": "亲子组合",
+        "model": "套",
+        "resume": "鸡与蛋 强强联手，暖心暖胃",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/1/1307/56d5091fa4610.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "166.80",
+        "sale_price": "126.00",
+        "distribution": "310100",
+        "quantity": "7",
+        "is_wish": 0,
+        "status": "1",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3250",
+        "name": "粽礼三味",
+        "model": "140g*6",
+        "resume": "粽米软糯 馅料上品 色香味的完美融合",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3250/15108819273699.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "23.40",
+        "sale_price": null,
+        "distribution": "999999",
+        "quantity": "9",
+        "is_wish": 0,
+        "status": "1",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3185",
+        "name": "西柚柠檬组合",
+        "model": "套",
+        "resume": "维C多多，白瘦美就是你",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3185/15052653252165.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "44.00",
+        "sale_price": "36.00",
+        "distribution": "310100",
+        "quantity": "3",
+        "is_wish": 0,
+        "status": "1",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3184",
+        "name": "早餐食光套餐",
+        "model": "套",
+        "resume": "传统中式风味，满足您的中国胃",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3184/15051859697299.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "156.90",
+        "sale_price": "119.00",
+        "distribution": "310100",
+        "quantity": "2",
+        "is_wish": 0,
+        "status": "1",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3111",
+        "name": "三种部位 牛排套餐家庭装",
+        "model": "150g*5片装",
+        "resume": "牛排全家福， 多种滋味齐享",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3111/15009606519053.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "103.30",
+        "sale_price": "96.00",
+        "distribution": "310100",
+        "quantity": "2",
+        "is_wish": 0,
+        "status": "1",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3109",
+        "name": "三种部位  牛排套餐家庭装",
+        "model": " 10片装",
+        "resume": "牛排“全家福”  多种滋味齐享",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3109/15009606795749.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "222.50",
+        "sale_price": "199.00",
+        "distribution": "310100",
+        "quantity": "3",
+        "is_wish": 0,
+        "status": "1",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3102",
+        "name": "有机黑毛猪-精品礼盒\t",
+        "model": "",
+        "resume": "吃有机粮，食中药，养足三百天",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3102/15041693045682.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "360.00",
+        "sale_price": "318.00",
+        "distribution": "310100",
+        "quantity": "1",
+        "is_wish": 0,
+        "status": "1",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3085",
+        "name": "蔬菜 宅配套餐",
+        "model": "2kg*12次",
+        "resume": "农庄直供 新鲜直达",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3085/15015783799422.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "1296.00",
+        "sale_price": "1000.00",
+        "distribution": "310100",
+        "quantity": "10000",
+        "is_wish": 0,
+        "status": "1",
+        "stock_status_id": "11"
+      }
+    ]
+  },
+    "jian": {
+    "image": "http://cdnimg.pinxiango.com/img/banner/background/15113222086551.png?x-oss-process=image/resize,m_pad,h_320,w_700,color_FFFFFF",
+    "link": "http://www.pinxiango.com/product/product-3255.html",
+    "product": [
+      {
+        "id": "3254",
+        "name": "云南昭通苹果",
+        "model": "15个装",
+        "cate_id": null,
+        "stock_status_id": "7",
+        "resume": "高原野生果 产地直采 甜脆多汁",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3254/15113179578922.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "42.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "182",
+        "is_wish": 0,
+        "status": null
+      },
+      {
+        "id": "3255",
+        "name": "云南昭通苹果",
+        "model": "4个装",
+        "cate_id": null,
+        "stock_status_id": "7",
+        "resume": "高原野生果 产地直采 甜脆多汁",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3255/15113179679413.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "12.00",
+        "sale_price": "1.10",
+        "distribution": "310100",
+        "quantity": "574",
+        "is_wish": 0,
+        "status": null
+      },
+      {
+        "id": "3237",
+        "name": "新西兰进口西冷牛排",
+        "model": "150g",
+        "cate_id": null,
+        "stock_status_id": "7",
+        "resume": "韧度强，嚼劲感十足",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3237/15111587663501.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "37.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "149",
+        "is_wish": 0,
+        "status": null
+      },
+      {
+        "id": "3238",
+        "name": "新西兰进口眼肉牛排",
+        "model": "150g",
+        "cate_id": null,
+        "stock_status_id": "7",
+        "resume": "诱人雪花纹路，肉质柔软多汁",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3238/15111576126517.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "44.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "149",
+        "is_wish": 0,
+        "status": null
+      },
+      {
+        "id": "3240",
+        "name": "新西兰进口羊颈排（羊蝎子）",
+        "model": "1000g",
+        "cate_id": null,
+        "stock_status_id": "7",
+        "resume": "骨肉比例均匀，啃起来就是香",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3240/15112361845505.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "68.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "-2",
+        "is_wish": 0,
+        "status": null
+      },
+      {
+        "id": "3241",
+        "name": "新西兰进口羔羊小排",
+        "model": "500g",
+        "cate_id": null,
+        "stock_status_id": "7",
+        "resume": "肥瘦相间 肉质鲜嫩 煎烤适宜",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3241/15111596407928.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "48.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "68",
+        "is_wish": 0,
+        "status": null
+      },
+      {
+        "id": "3242",
+        "name": "加拿大进口3A眼肉牛排",
+        "model": "200g",
+        "cate_id": null,
+        "stock_status_id": "7",
+        "resume": "诱人雪花纹路，肉质柔软多汁",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3242/15111603755105.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "78.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "35",
+        "is_wish": 0,
+        "status": null
+      },
+      {
+        "id": "3217",
+        "name": "山东特产 | 栖霞红富士苹果",
+        "model": "2.5KG",
+        "cate_id": null,
+        "stock_status_id": "7",
+        "resume": "甜脆多汁，红扑扑惹人爱",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3217/15081391344441.jpg?x-oss-process=image/resize,m_pad,h_250,w_250,color_FFFFFF",
+        "price": "48.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "104",
+        "is_wish": 0,
+        "status": null
+      }
+    ]
+  }
+  },
+  "foods": {
+    "banner": [
+      {
+        "id": "317",
+        "name": "安心水果",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_317_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_317_3.png",
+        "image": "",
+        "pid": 0
+      },
+      {
+        "id": "286",
+        "name": "水产海鲜",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_286_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_286_3.png",
+        "image": "",
+        "pid": 0
+      },
+      {
+        "id": "316",
+        "name": "乳品蛋奶",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_316_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_316_3.png",
+        "image": "",
+        "pid": 0
+      },
+      {
+        "id": "261",
+        "name": "时令鲜蔬",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_261_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_261_3.png",
+        "image": "",
+        "pid": 0
+      },
+      {
+        "id": "272",
+        "name": "精品肉类",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_272_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_272_3.png",
+        "image": "",
+        "pid": 0
+      },
+      {
+        "id": "281",
+        "name": "超值套餐",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_281_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_281_3.png",
+        "image": "",
+        "pid": 0
+      },
+      {
+        "id": "276",
+        "name": "粮油副食",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_276_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_276_3.png",
+        "image": "",
+        "pid": 0
+      },
+      {
+        "id": "287",
+        "name": "酒水饮品",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_287_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_287_3.png",
+        "image": "",
+        "pid": 0
+      },
+      {
+        "id": "361",
+        "name": "休闲零食",
+        "icon": "http://cdnimg.pinxiango.com/img/category/mobile/cate_361_1.png",
+        "icon2": "http://cdnimg.pinxiango.com/img/category/mobile/cate_361_3.png",
+        "image": "",
+        "pid": 0
+      }
+    ],
+    "good": [
+      {
+        "id": "3275",
+        "name": "黄金百香果",
+        "model": "5个装",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3275/15118555404623.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "25.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "26",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [],
+        "resume": "果香独特 高甜微酸 唤起甜蜜记忆",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3264",
+        "name": "品鲜GO特选 昆仑山天然雪山矿泉水",
+        "model": "350ml*12",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3264/15115007278932.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "46.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "25",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [],
+        "resume": "纯净零污染 天然弱碱性",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3255",
+        "name": "云南昭通丑苹果",
+        "model": "4个装",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3255/15113179679413.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "12.00",
+        "sale_price": "1.10",
+        "distribution": "310100",
+        "quantity": "481",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [
+          {
+            "name": "特价尝鲜",
+            "bg_color": "#ff8000",
+            "begin_time": "0",
+            "end_time": "1514735940"
+          },
+          {
+            "name": "每单限购一份",
+            "bg_color": "#ff8000",
+            "begin_time": "0",
+            "end_time": "1514735940"
+          }
+        ],
+        "resume": "离太阳最近的苹果",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3254",
+        "name": "云南昭通丑苹果",
+        "model": "15个装",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3254/15113179578922.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "42.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "152",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [],
+        "resume": "离太阳最近的苹果",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3250",
+        "name": "粽礼三味",
+        "model": "140g*6",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3250/15108819273699.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "23.40",
+        "sale_price": null,
+        "distribution": "999999",
+        "quantity": "4",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [
+          {
+            "name": "满88换购",
+            "bg_color": "#ff8000",
+            "begin_time": "0",
+            "end_time": "1512057540"
+          }
+        ],
+        "resume": "粽米软糯 馅料上品 色香味的完美融合",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3246",
+        "name": "德运全脂牛奶",
+        "model": "1L*10",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3246/15102134091596.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "110.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "24",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [
+          {
+            "name": "进口商品",
+            "bg_color": "#ff8000",
+            "begin_time": "0",
+            "end_time": "2147483647"
+          }
+        ],
+        "resume": "澳洲原装进口 黄金奶源 香醇口感",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3245",
+        "name": "德运脱脂牛奶",
+        "model": "1L*10",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3245/15102134435569.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "110.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "18",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [
+          {
+            "name": "进口商品",
+            "bg_color": "#ff8000",
+            "begin_time": "0",
+            "end_time": "2147483647"
+          }
+        ],
+        "resume": "澳洲原装进口 美味健康两不误",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3244",
+        "name": "德运全脂牛奶",
+        "model": "1L",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3244/15101982386997.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "13.80",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "55",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [
+          {
+            "name": "进口商品",
+            "bg_color": "#ff8000",
+            "begin_time": "0",
+            "end_time": "2147483647"
+          }
+        ],
+        "resume": "澳洲原装进口 黄金奶源 香醇口感",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3243",
+        "name": "德运脱脂牛奶",
+        "model": "1L",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3243/15101982624264.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "13.80",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "45",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [
+          {
+            "name": "进口商品",
+            "bg_color": "#ff8000",
+            "begin_time": "0",
+            "end_time": "2147483647"
+          }
+        ],
+        "resume": "澳洲原装进口 美味健康两不误",
+        "stock_status_id": "7"
+      },
+      {
+        "id": "3242",
+        "name": "加拿大进口3A眼肉牛排",
+        "model": "200g",
+        "cate_id": "",
+        "image": "http://cdnimg.pinxiango.com/img/product/img/3/3242/15111603755105.jpg?x-oss-process=image/resize,m_pad,h_338,w_338,color_FFFFFF",
+        "badge": "",
+        "price": "78.00",
+        "sale_price": null,
+        "distribution": "310100",
+        "quantity": "34",
+        "is_wish": 0,
+        "status": "1",
+        "label": "",
+        "diy_label": [],
+        "resume": "诱人雪花纹路，肉质柔软多汁",
+        "stock_status_id": "7"
+      }
+    ]
+  },
+  "cooking": {
+    "notice_lst": [
+      "恭喜 美食呆萌君 的 红烧狮子头 被推荐到首页",
+      "功夫不负有心人，瓜酱 凭借出色的厨艺成为本月达人",
+      "第一个上传厨神级食谱的人在哪里~",
+      "猪肉果然是国民最爱",
+      "09-19 16:29 瓜酱 完成了第一次厨艺秀",
+      "本教室的厨友们都偏爱焖煮",
+      "Abby爱下厨 分享了食谱 南瓜蒸肉，获得10元优惠券1张"
+    ],
+    "chief": {
+        "chef_id": 36631,
+        "chef_img": "http://cdnimg.pinxiango.com/img/member/36/36631/1479447030.JPG?x-oss-process=image/resize,m_pad,h_200,w_200,color_FFFFFF",
+        "chef_name": "左壮の厨房",
+        "chef_level": "2",
+        "chef_introduction": "口宽一点，为自己做一顿饭。",
+        "is_favorites": false,
+        "recipe_lst": [
+          {
+            "id": "346",
+            "name": "左壮私房菜 | 煎带鱼",
+            "img": "http://cdnimg.pinxiango.com/img/recipes/img/1479446355.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+            "view_num": "2902",
+            "favorites_num": "6"
+          },
+          {
+            "id": "344",
+            "name": "左壮私房菜 | 霸王鸡腿沙拉",
+            "img": "http://cdnimg.pinxiango.com/img/recipes/img/1479446384.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+            "view_num": "2840",
+            "favorites_num": "7"
+          },
+          {
+            "id": "347",
+            "name": "左壮私房菜 | 失身贝",
+            "img": "http://cdnimg.pinxiango.com/img/recipes/img/1479778330.JPG?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+            "view_num": "2490",
+            "favorites_num": "5"
+          }
+        ]
+    },
+    "tuijian": [
+      {
+        "id": "430",
+        "name": "牛油果苹果奶昔",
+        "img": "http://cdnimg.pinxiango.com/img/recipes/img//XM54F598WQ1511493281.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+        "view_num": "22",
+        "favorites_num": "0",
+        "chef_id": 37795
+      },
+      {
+        "id": "429",
+        "name": "牛油果烤鸡蛋",
+        "img": "http://cdnimg.pinxiango.com/img/recipes/img//LS6KU3T89Y1511426766.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+        "view_num": "18",
+        "favorites_num": "0",
+        "chef_id": 37795
+      },
+      {
+        "id": "428",
+        "name": "滑蛋虾仁",
+        "img": "http://cdnimg.pinxiango.com/img/recipes/img//966QJ5S64L1510709774.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+        "view_num": "36",
+        "favorites_num": "0",
+        "chef_id": 37795
+      },
+      {
+        "id": "427",
+        "name": "黄豆猪脚汤",
+        "img": "http://cdnimg.pinxiango.com/img/recipes/img//839486BM8G1510563864.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+        "view_num": "41",
+        "favorites_num": "0",
+        "chef_id": 37795
+      },
+      {
+        "id": "425",
+        "name": "江南熟醉蟹",
+        "img": "http://cdnimg.pinxiango.com/img/recipes/img//7IY87QN88M1507619757.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+        "view_num": "146",
+        "favorites_num": "0",
+        "chef_id": 37795
+      },
+      {
+        "id": "424",
+        "name": "盐烤大闸蟹",
+        "img": "http://cdnimg.pinxiango.com/img/recipes/img//369743M5B41507618020.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+        "view_num": "104",
+        "favorites_num": "0",
+        "chef_id": 37795
+      },
+      {
+        "id": "422",
+        "name": "黄酒当归蒸大闸蟹",
+        "img": "http://cdnimg.pinxiango.com/img/recipes/img//49D35SY3BA1507613614.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+        "view_num": "82",
+        "favorites_num": "1",
+        "chef_id": 37795
+      },
+      {
+        "id": "421",
+        "name": "毛蟹年糕",
+        "img": "http://cdnimg.pinxiango.com/img/recipes/img//7C99NKJY651507606531.jpg?x-oss-process=image/resize,m_fill,h_150,limit_0,w_200/watermark,image_aW1nL290aGVyL3dhdGVybWFyay5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yMw==,t_70",
+        "view_num": "141",
+        "favorites_num": "1",
+        "chef_id": 37795
+      }
+    ]
+  }
+}
